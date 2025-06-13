@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=RemoteMain.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=RemoteMain.SchDoc|Designator=RemoteSensors|SchDesignator=RemoteSensors|FileName=RemoteSensors.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=RemoteSensors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

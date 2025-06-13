@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=QSPI_CS Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=S1-A
+Removed Pin From Net: NetName=GND Pin=S1-B
+Removed Member From Class: ClassName=RemoteMain Member=R4
+Removed Member From Class: ClassName=RemoteMain Member=S1
