@@ -36,9 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=F6FD6464-80D1-4276-9B83-2D2FC8E6F49C
 VaultGUID=6565B1FD-AFCD-4CA7-A0D5-5068FAC846C3
 ReleaseVaultName=James Cook University
+ItemGUID=F6FD6464-80D1-4276-9B83-2D2FC8E6F49C
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -174,15 +175,47 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document8]
+DocumentPath=..\..\Downloads\SENSORM-TH_3P_AS312.pcbdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LKIFLRWW
+
+[Document9]
+DocumentPath=..\..\Downloads\SENSORM-TH_3P_AS312.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NQGQPMJV
+
 [ProjectVariant1]
 UniqueId=17DA3EA9-4C7D-4EF4-B062-720474CCCBCE
 Description=No through hole
 AllowFabrication=0
 ParameterCount=0
-VariationCount=3
+VariationCount=1
 Variation1=Designator=P3|UniqueId=\PMZJSGQD|Kind=1|AlternatePart=
-Variation2=Designator=P4|UniqueId=\HDOCWHKH|Kind=1|AlternatePart=
-Variation3=Designator=P1|UniqueId=\WCZKSJGU|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
