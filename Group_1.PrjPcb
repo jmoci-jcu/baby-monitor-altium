@@ -74,6 +74,23 @@ GenerateClassCluster=0
 DocumentUniqueId=CBYMYLTC
 
 [Document2]
+DocumentPath=PowerManagement.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PBOCBTXY
+
+[Document3]
 DocumentPath=RemoteSensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -90,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CYDWOGPE
 
-[Document3]
+[Document4]
 DocumentPath=Group_1.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document5]
 DocumentPath=RemoteAssembly.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
 DocumentPath=RemoteFabrication.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=RemoteUnitBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLCNOXPR
 
-[Document7]
+[Document8]
 DocumentPath=RemoteUnitBOM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=..\..\Downloads\SENSORM-TH_3P_AS312.pcbdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LKIFLRWW
 
-[Document9]
+[Document10]
 DocumentPath=..\..\Downloads\SENSORM-TH_3P_AS312.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -220,6 +237,10 @@ ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for BabyRemoteUnit\Design Rule Check - RemoteUnitBoard.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Group_1\Design Rule Check - RemoteUnitBoard.html
 DItemRevisionGUID=
 
 [Configuration1]

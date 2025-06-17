@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=RemoteMain Member=C2
+Removed Member From Class: ClassName=RemoteMain Member=C3
+Removed Member From Class: ClassName=RemoteMain Member=J1
+Removed Member From Class: ClassName=RemoteMain Member=U1
+Change Component Designator: OldDesignator=jcj NewDesignator=U7
+Added Class: Name=Designator
+Added Member To Class: ClassName=RemoteMain Member=Component BLueTooth Board RN4871 CLICK
