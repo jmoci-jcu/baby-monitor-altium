@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=3V3 Pin=P1-1
-Removed Pin From Net: NetName=GPIO12 Pin=P1-2
-Removed Pin From Net: NetName=RUN Pin=P1-3
-Removed Pin From Net: NetName=GND Pin=P1-4
-Removed Member From Class: ClassName=RemoteMain Member=P1

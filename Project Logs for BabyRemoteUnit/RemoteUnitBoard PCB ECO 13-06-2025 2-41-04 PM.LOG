@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=SWCLK Pin=P3-1
-Removed Pin From Net: NetName=GND Pin=P3-2
-Removed Pin From Net: NetName=SWDIO Pin=P3-3
-Removed Member From Class: ClassName=RemoteMain Member=P3
