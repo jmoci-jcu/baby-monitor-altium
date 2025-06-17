@@ -91,7 +91,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CYDWOGPE
 
 [Document3]
-DocumentPath=BabyRemoteUnit.PrjPcb
+DocumentPath=Group_1.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
