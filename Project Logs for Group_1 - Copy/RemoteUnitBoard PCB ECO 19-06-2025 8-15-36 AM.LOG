@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=Q2-
+Removed Pin From Net: NetName=Accel_SCL_SCLK Pin=TP1-1
+Removed Pin From Net: NetName=Accel_SDA_MOSI Pin=TP2-1
+Removed Pin From Net: NetName=Accel_SCL_SCLK Pin=U2-4
+Removed Pin From Net: NetName=Accel_SDA_MOSI Pin=U2-5
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Added Pin To Net: NetName=Accel_SDA_MOSI Pin=TP1-1
+Added Pin To Net: NetName=Accel_SCL_SCLK Pin=TP2-1
+Added Pin To Net: NetName=Accel_SDA_MOSI Pin=U2-4
+Added Pin To Net: NetName=Accel_SCL_SCLK Pin=U2-5
