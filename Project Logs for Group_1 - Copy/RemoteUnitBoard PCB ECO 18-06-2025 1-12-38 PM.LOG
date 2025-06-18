@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=Q2-tga
+Added Component: Designator=L1(JCU Logo Without Text)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "JCU-LOGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "JCULibrary.SchLib"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Added Member To Class: ClassName=RemoteMain Member=Component L1 JCU-LOGO

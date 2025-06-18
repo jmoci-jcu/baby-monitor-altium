@@ -1,0 +1,63 @@
+Added Component: Designator=D?(SOD-323_L1.8-W1.3-LS2.5-RD)
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hottech(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "1N5819WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "1N5819WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C191023"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED0805-R-RD)
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KENTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KT-0805G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "0805G (Green)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2297"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED0805-R-RD)
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KENTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KT-0805??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "17-21SUYC/TR8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2296"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR)
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VISHAY(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SI2301CDS-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "SI2301CDS-T1-GE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C10487"; VariantName = "[No Variations]"
+Added Component: Designator=U?(ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP)
+Add component (AddParameter): Name = "Contributor"; Value = "Guest"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TOPPOWER(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "TP4056-42-ESOP8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TP4056"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C16581"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=D?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=3V3 Pin=LED?-2
+Added Pin To Net: NetName=3V3 Pin=LED?-2
+Added Pin To Net: NetName=5V Pin=Q?-1
+Added Pin To Net: NetName=NetC3_1 Pin=Q?-2
+Added Pin To Net: NetName=NetC28_2 Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=NetR17_1 Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=5V Pin=U?-4
+Added Pin To Net: NetName=NetC28_2 Pin=U?-5
+Added Pin To Net: NetName=NetLED?_1 Pin=U?-7
+Added Pin To Net: NetName=5V Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Add Net: Net with name "NetLED?_1" already exists
+Added Member To Class: ClassName=Designator Member=Component D? 1N5819WS
+Added Member To Class: ClassName=Designator Member=Component LED? 0805G (Green)
+Added Member To Class: ClassName=Designator Member=Component LED? 17-21SUYC/TR8
+Added Member To Class: ClassName=Designator Member=Component Q? SI2301CDS-T1-GE3
+Added Member To Class: ClassName=Designator Member=Component U? TP4056

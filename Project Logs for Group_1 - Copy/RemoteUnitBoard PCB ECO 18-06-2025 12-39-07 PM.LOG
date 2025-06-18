@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetLED3_2 Pin=LED4-2
+Removed Pin From Net: NetName=NetLED3_2 Pin=U8-6
+Added Component: Designator=L1(JCU Logo Without Text)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "JCU-LOGO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "JCULibrary.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED3_2 Pin=U8-7
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=U8-6
+Added Net: Name=NetLED4_2
+Added Member To Class: ClassName=RemoteMain Member=Component L1 JCU-LOGO

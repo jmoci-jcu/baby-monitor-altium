@@ -1,0 +1,26 @@
+Add component: Footprint Not Found SOD-323_L1.8-W1.3-LS2.5-RD
+Add component: Footprint Not Found LED0805-R-RD
+Add component: Footprint Not Found LED0805-R-RD
+Add component: Footprint Not Found SOT-23-3_L3.0-W1.7-P0.95-LS2.9-BR
+Add component: Footprint Not Found ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP
+Add Pin To Net: Unknown Pin: Pin D?-1
+Add Pin To Net: Unknown Pin: Pin LED?-1
+Add Pin To Net: Unknown Pin: Pin LED?-2
+Add Pin To Net: Unknown Pin: Pin LED?-2
+Add Pin To Net: Unknown Pin: Pin Q?-1
+Add Pin To Net: Unknown Pin: Pin Q?-2
+Add Pin To Net: Unknown Pin: Pin Q?-3
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-2
+Add Pin To Net: Unknown Pin: Pin U?-3
+Add Pin To Net: Unknown Pin: Pin U?-4
+Add Pin To Net: Unknown Pin: Pin U?-5
+Add Pin To Net: Unknown Pin: Pin U?-7
+Add Pin To Net: Unknown Pin: Pin U?-8
+Add Pin To Net: Unknown Pin: Pin U?-9
+Add Net: Net with name "NetLED?_1" already exists
+Add Class Member: Failed to add class member : Component D? 1N5819WS
+Add Class Member: Failed to add class member : Component LED? 17-21SUYC/TR8
+Add Class Member: Failed to add class member : Component LED? 0805G (Green)
+Add Class Member: Failed to add class member : Component Q? SI2301CDS-T1-GE3
+Add Class Member: Failed to add class member : Component U? TP4056
